@@ -1,0 +1,8 @@
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\bin\Debug\netcoreapp3.1\KarverketApiClient.deps.json
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\bin\Debug\netcoreapp3.1\KarverketApiClient.dll
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\bin\Debug\netcoreapp3.1\KarverketApiClient.pdb
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\obj\Debug\netcoreapp3.1\KarverketApiClient.csprojAssemblyReference.cache
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\obj\Debug\netcoreapp3.1\KarverketApiClient.AssemblyInfoInputs.cache
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\obj\Debug\netcoreapp3.1\KarverketApiClient.AssemblyInfo.cs
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\obj\Debug\netcoreapp3.1\KarverketApiClient.dll
+D:\repos\KartverketApi\src\Kartverket\KarverketApiClient\obj\Debug\netcoreapp3.1\KarverketApiClient.pdb
