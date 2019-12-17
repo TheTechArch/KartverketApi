@@ -33,3 +33,6 @@ D:\repos\KartverketApi\src\Kartverket\KartverketWeb\obj\Debug\netcoreapp3.1\Kart
 D:\repos\KartverketApi\src\Kartverket\KartverketWeb\obj\Debug\netcoreapp3.1\KartverketWeb.dll
 D:\repos\KartverketApi\src\Kartverket\KartverketWeb\obj\Debug\netcoreapp3.1\KartverketWeb.pdb
 D:\repos\KartverketApi\src\Kartverket\KartverketWeb\obj\Debug\netcoreapp3.1\KartverketWeb.csproj.CopyComplete
+D:\repos\KartverketApi\src\Kartverket\KartverketWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\repos\KartverketApi\src\Kartverket\KartverketWeb\bin\Debug\netcoreapp3.1\KarverketApiClient.dll
+D:\repos\KartverketApi\src\Kartverket\KartverketWeb\bin\Debug\netcoreapp3.1\KarverketApiClient.pdb

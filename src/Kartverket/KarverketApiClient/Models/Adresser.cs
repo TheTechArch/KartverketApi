@@ -23,7 +23,7 @@ namespace KarverketApiClient.Models
         public bool stedfestingverifisert { get; set; }
         public string adressetekst { get; set; }
         public string adressetekstutenadressetilleggsnavn { get; set; }
-        public int undernummer { get; set; }
+        public int? undernummer { get; set; }
         public string kommunenummer { get; set; }
         public string[] bruksenhetsnummer { get; set; }
     }

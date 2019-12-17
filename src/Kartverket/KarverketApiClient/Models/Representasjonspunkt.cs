@@ -7,7 +7,7 @@ namespace KarverketApiClient.Models
     public class Representasjonspunkt
     {
         public string epsg { get; set; }
-        public int lon { get; set; }
-        public int lat { get; set; }
+        public string lon { get; set; }
+        public string lat { get; set; }
     }
 }

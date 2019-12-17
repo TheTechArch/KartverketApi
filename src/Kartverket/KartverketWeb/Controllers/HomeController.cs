@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using KartverketWeb.Models;
+using KarverketApiClient.Service;
+using KarverketApiClient.Models;
 
 namespace KartverketWeb.Controllers
 {
@@ -18,8 +20,10 @@ namespace KartverketWeb.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            KartverketApiSI client = new KartverketApiSI();
+            AdressSearchResult result = await client.SearchAdress(new KarverketApiClient.Models.AdressSearch() { sok="Hovseterveien"});
             return View();
         }
 
